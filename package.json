@@ -1,0 +1,11 @@
+{
+  "name": "twig_arraysplit",
+  "version": "1.0.0",
+  "description": "An array splitting function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Rose Hissink",
+  "license": "ISC"
+}

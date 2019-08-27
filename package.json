@@ -4,8 +4,12 @@
   "description": "An array splitting function.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "node index.js",
+    "test": "jest"
   },
   "author": "Rose Hissink",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
